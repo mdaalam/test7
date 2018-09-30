@@ -23,15 +23,15 @@ public class AccountFeature extends SubBase {
 
 
 
-//    @Test
-//    public void addAddress() throws InterruptedException {
-//
-//        loginToAccount();
-//
-//
-//
-//
-//    }
+    @Test
+    public void addAddress() throws InterruptedException {
+
+        // new test case
+
+
+
+
+    }
 
 
 
